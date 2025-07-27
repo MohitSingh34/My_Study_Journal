@@ -1,1 +1,10 @@
+I started my studies at 11:00 AM. Studied for 2 hours "introductory material of the odin project.
+I started again at 2:00 PM and studied for 2 hours and got first burnout. So i slept for three hours.
+
+#above way of writing is really very tiring so i am implementing a new way.
+
+11:00AM -- 1:00 PM ---> Studying ---> Introductory parts of The Odin Project.
+1:00PM -- 2:00 PM --> ---Lunch--
+2:00PM -- 4:00 --> Study ---> Studying --> How web works
+---Burnout---Slept---
 
